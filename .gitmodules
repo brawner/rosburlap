@@ -1,0 +1,6 @@
+[submodule "lib/rosbridge_java"]
+	path = lib/rosbridge_java
+	url = https://github.com/brawner/rosbridge_java
+[submodule "lib/burlap"]
+	path = lib/burlap
+	url = https://github.com/jmacglashan/burlap
